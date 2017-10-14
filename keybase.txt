@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/seanbae
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://seanbae.com
+  * I am seanbae (https://keybase.io/seanbae) on keybase.
+  * I have a public key with fingerprint 6161 FE44 B742 CAD6 06D0  8BB4 1920 C529 F533 ADA2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010194743200624c4fb720d2e1446383bb4b491d4dcdf3220909f3e1af0a3f437fdc0a",
+      "fingerprint": "6161fe44b742cad606d08bb41920c529f533ada2",
+      "host": "keybase.io",
+      "key_id": "1920c529f533ada2",
+      "kid": "010194743200624c4fb720d2e1446383bb4b491d4dcdf3220909f3e1af0a3f437fdc0a",
+      "uid": "b6cf1889091400ace2de4b60d20a4719",
+      "username": "seanbae"
+    },
+    "service": {
+      "hostname": "seanbae.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507955575,
+  "expire_in": 157680000,
+  "prev": "c2d7d340729ec74d9679d5e7e84551979520f73e96f25383e03c04424d878984",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIjAnicrZJLSBVRHMavaVlmGRlELXpMBlmmZ2bOzJm5SYFltLCFQi8RbjPnnLl3
+fMzcZsYXJkGLRBclvWjRQuIqlEKaPbBMK8pAF5YGESLlA4rUMIKUFtYZqUXQsrM5
+r+/7nf/35zxfFR9Iiit4fTklcSIvO27g6dXywImxS5U1nG6Tai5Yw5XQxYmWEup6
+oRKTcEEO8IBXIYKiAIAsQAwNHQmACJSHUBYVUdehDlWeQIKJIQoCUIFqiJTXDKCJ
+BhSRQTDQuAzOMK0wdaKOaXkMK/Myb1AIdQQFrBEZyAQojMWrAsCSoBqSKGpEE5gx
+Yru+gxWnay7NNG12xjahxfL+of/PdZcv4nQZG7yiMBEPAdAwFQiFusyAQIOIV32h
+Sx1LK6NM7VLN0jXK1WawpVNhYur31Q/ytyAT22XMGXVsz8Z2KbuIeF7UDfpGrzrq
+KyupHvrNCOmmRVgXmaOCOq5pW1yQZ0rsmT6UlwBSJUlCUgZHq6KmQ0Omr5CQrAA2
+/HdoBUNigSAiQoAElWIEiSojlUgUUQVKEq8yiAAMJFJVNgSJtYoCEQMIBUgUpKgK
+5PxUpyybsXlWpxb2A5lhS/PKHZb52ZOihEBcUmDZ0iX+9wokrVjz59PNvFweeHYg
+sr5u/OtI1e1bSY8OXjg/siW1+V7kYsOdpvGu9g0LNXNKY6Qwd/p0bkHTt4YPR8vn
+5NmFdX37KueWnt3aPppf9IJPrR36sbqz90VP72jb47SprIWW+LWTV+acPckjQ1mx
+TcMYX+p4RVMSG9InWmJG9uHiNry5jvQXBhPdqq7OvSXh+th29H0IRToGc04X7+4t
++Jz3aTjcGssr2J+WXnXf27txPjchOd0anDhbf7fsx46FXUe+tJgPc96VHB+4acWa
+H9Q+PfhzLPNjy86302PHDkXDaxtbD9jWm6mUc3Xb+mau96+8Nt9dt6z7xuRswrU1
++bEzPallCSnvmxLd4aKTab8AwsJCBA==
+=L0R8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/seanbae
+
+==================================================================
